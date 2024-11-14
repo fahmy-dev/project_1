@@ -1,4 +1,4 @@
-# index.html
+# A comprehensive guide of Mara Park
 Headers Element h1-h6: Used to define the various bold headings in the website in decreasing importance.
 i.e -   <h1> - Main title of the page
         <h2> - Heading of the Table of Contents
